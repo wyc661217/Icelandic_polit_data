@@ -1,0 +1,745 @@
+Huperzia	37428
+Lycopodium	3251
+Diphasiastrum	455304
+Selaginella	3246
+Isoetes	13838
+Equisetum	3257
+Ophioglossum	13833
+Botrychium	13829
+Cryptogramma	238821
+Hymenophyllum	38386
+Asplenium	32071
+Athyrium	32109
+Woodsia	29610
+Woodsia	210574
+Cystopteris	32111
+Gymnocarpium	32115
+Dryopteris	3287
+Polystichum	3278
+Phegopteris	93618
+Polypodium	38352
+Polypodium	43185
+Pinus	3337
+Picea	3328
+Larix	3325
+Juniperus	13100
+Salix	40685
+Populus	3689
+Betula	3504
+Alnus	3515
+Urtica	3500
+Rumex	3618
+Oxyria	137682
+Persicaria	61508
+Bistorta	137670
+Koenigia	137679
+Polygonum	46786
+Armeria	63086
+Atriplex	3550
+Montia	107590
+Spergula	240010
+Spergularia	157640
+Sagina	230723
+Minuartia	258339
+Honkenya	
+Arenaria	3577
+Arenaria	54972
+Stellaria	13273
+Stellaria	1297112
+Cerastium	3579
+Viscaria	692066
+Lychnis	265240
+Silene	3573
+Caltha	3448
+Thalictrum	46968
+Beckwithia	395282
+Ranunculus	3445
+Batrachium	633652
+Papaver	3468
+Arabidopsis	3701
+Erysimum	65352
+Barbarea	50457
+Rorippa	50495
+Cardamine	50460
+Arabis	50451
+Draba	87301
+Cochlearia	97854
+Capsella	3718
+Capsella	183499
+Subularia	664070
+Cakile	220482
+Drosera	4363
+Tillaea	
+Rhodiola	202994
+Sedum	3784
+Parnassia	3796
+Saxifraga	3798
+Ribes	3801
+Filipendula	23170
+Geum	3761
+Dryas	33452
+Dryas	48230
+Sibbaldia	57946
+Potentilla	23204
+Argentina	23204
+Argentina	260511
+Comarum	395100
+Fragaria	3746
+Rubus	23216
+Rosa	3764
+Alchemilla	23138
+Sanguisorba	57937
+Sorbus	23222
+Lupinus	3869
+Trifolium	3898
+Anthyllis	118889
+Vicia	3904
+Lathyrus	3853
+Oxalis	4034
+Geranium	4028
+Linum	4005
+Viola	13757
+Viola	509528
+Epilobium	13054
+Chamerion	238243
+Myriophyllum	24952
+Cornus	4281
+Hydrocotyle	4048
+Anthriscus	40886
+Myrrhis	40879
+Carum	48031
+Aegopodium	40898
+Ligusticum	49551
+Angelica	40948
+Pyrola	13650
+Orthilia	93818
+Loiseleuria	
+Phyllodoce	45908
+Phyllodoce	222014
+Harrimanella	49145
+Andromeda	95629
+Arctostaphylos	83607
+Calluna	13384
+Vaccinium	13749
+Oxycoccus	
+Empetrum	45918
+Diapensia	13486
+Primula	49647
+Trientalis	59990
+Glaux	110752
+Gentiana	21496
+Gentianopsis	50798
+Comastoma	50752
+Gentianella	49959
+Lomatogonium	50276
+Menyanthes	24581
+Galium	25168
+Callitriche	13380
+Hippuris	39200
+Myosotis	192333
+Mertensia	140495
+Mertensia	211512
+Ajuga	38595
+Prunella	39176
+Prunella	175132
+Galeopsis	457137
+Galeopsis	2138267
+Lamium	53158
+Thymus	49990
+Mentha	21819
+Limosella	225017
+Mimulus	4154
+Mimulus	553005
+Veronica	4173
+Melampyrum	52724
+Euphrasia	46053
+Rhinanthus	46059
+Pedicularis	43174
+Bartsia	46051
+Pinguicula	4197
+Utricularia	13747
+Plantago	26867
+Littorella	223166
+Valeriana	19952
+Succisa	105905
+Knautia	59182
+Campanula	40568
+Erigeron	41574
+Omalotheca	1754163
+Gnaphalium	59428
+Antennaria	41475
+Antennaria	293542
+Achillea	13328
+Tripleurospermum	99107
+Lepidotheca	520359
+Leucanthemum	99071
+Tussilago	118777
+Senecio	18794
+Cirsium	41549
+Centaurea	41503
+Leontodon	58659
+Taraxacum	49743
+Crepis	13464
+Pilosella	122543
+Hieracium	102745
+Triglochin	55500
+Potamogeton	13228
+Stuckenia	246706
+Ruppia	16365
+Zannichellia	27253
+Zostera	27257
+Sparganium	4729
+Paris	49669
+Tofieldia	85289
+Allium	4678
+Dactylorhiza	59319
+Coeloglossum	361224
+Platanthera	59352
+Pseudorchis	329326
+Listera	14605
+Corallorhiza	48525
+Juncus	13578
+Luzula	46322
+Eriophorum	46326
+Trichophorum	76514
+Eleocharis	46324
+Kobresia	46330
+Carex	13398
+Danthonia	42047
+Milium	368340
+Hierochloe	286618
+Anthoxanthum	15324
+Phleum	15956
+Alopecurus	15303
+Agrostis	15297
+Calamagrostis	15376
+Holcus	15560
+Deschampsia	15452
+Avenella	391960
+Avenula	388696
+Arrhenatherum	52138
+Trisetum	87476
+Sesleria	52160
+Catabrosa	368337
+Briza	15369
+Dactylis	4508
+Poa	4544
+Puccinellia	13648
+Phippsia	368331
+Festuca	4605
+Schedonorus	218135
+Glyceria	37871
+Nardus	15679
+Bromopsis	52144
+Elymus	15492
+Elytrigia	
+Leymus	52713
+Vulpes	9625
+Ursus	9639
+Rangifer	9869
+Mustela	9665
+Apodemus	10128
+Mus	10088
+Mus	862507
+Rattus	10114
+Halichoerus	9710
+Phoca	9717
+Pusa	693430
+Pagophilus	
+Cystophora	39181
+Cystophora	97204
+Erignathus	39182
+Odobenus	9706
+Equus	9789
+Bos	9903
+Ovis	9935
+Capra	9922
+﻿Huperzia selago	
+Lycopodium annotinum	13840
+Lycopodium clavatum	3252
+Diphasiastrum alpinum	73625
+Selaginella selaginoides	69996
+Isoetes echinospora	38494
+Isoetes lacustris	50271
+Equisetum arvense	3258
+Equisetum fluviatile	231680
+Equisetum hyemale	3262
+Equisetum palustre	113538
+Equisetum pratense	231681
+Equisetum sylvaticum	231679
+Equisetum variegatum	231678
+Ophioglossum azoricum	1581413
+Botrychium boreale	401572
+Botrychium lanceolatum	41922
+Botrychium lunaria	37231
+Botrychium minganense	41924
+Botrychium simplex	41931
+Cryptogramma crispa	306132
+Hymenophyllum wilsonii	723550
+Asplenium septentrionale	169380
+Asplenium trichomanes	78464
+Asplenium viride	147940
+Athyrium distentifolium	157494
+Athyrium filix-femina	32110
+Woodsia alpina	1303118
+Woodsia ilvensis	872911
+Cystopteris fragilis	32112
+Gymnocarpium dryopteris	32116
+Dryopteris expansa	239563
+Dryopteris filix-mas	3289
+Polystichum lonchitis	207865
+Phegopteris connectilis	173899
+Phegopteris connectilis	173899
+Polypodium vulgare	58048
+Pinus contorta	3339
+Picea sitchensis	3332
+Larix sibirica	62751
+Juniperus communis	58039
+Salix alaxensis	426348
+Salix arctica	395313
+Salix caprea	172267
+Salix herbacea	77064
+Salix lanata	218388
+Salix myrsinifolia	339964
+Salix phylicifolia	470269
+Populus tremula	113636
+Populus trichocarpa	3694
+Betula nana	216990
+Betula pubescens	38787
+Alnus sinuata	109071
+Urtica dioica	3501
+Urtica urens	473050
+Rumex acetosa	41241
+Rumex acetosella	61450
+Rumex longifolius	1075208
+Oxyria digyna	284366
+Persicaria amphibia	254780
+Persicaria maculosa	457184
+Bistorta vivipara	371026
+Koenigia islandica	374741
+Polygonum aviculare	137693
+Armeria maritima	71835
+Atriplex glabriuscula	880653
+Atriplex longipes	1155253
+Montia fontana	313220
+Spergula arvensis	325515
+Spergularia salina	191669
+Sagina caespitosa	669802
+Sagina nivalis	395312
+Sagina nodosa	1155358
+Sagina procumbens	230724
+Sagina saginoides	669803
+Sagina subulata	
+Minuartia biflora	345293
+Minuartia rubella	645205
+Minuartia stricta	669726
+Honkenya peploides	
+Arenaria norvegica	940194
+Stellaria alsine	254021
+Stellaria borealis	669842
+Stellaria crassifolia	395325
+Stellaria graminea	271541
+Stellaria humifusa	1137906
+Stellaria media	13274
+Cerastium alpinum	271556
+Cerastium cerastoides	271580
+Cerastium fontanum	230722
+Cerastium glomeratum	3580
+Cerastium nigrescens	271557
+Viscaria alpina	39927
+Lychnis flos-cuculi	42036
+Silene acaulis	39862
+Silene dioica	39879
+Silene uniflora	39919
+Caltha palustris	3449
+Thalictrum alpinum	395328
+Beckwithia glacialis	235900
+Ranunculus acris	3447
+Ranunculus auricomus	568533
+Ranunculus hyperboreus	286916
+Ranunculus pygmaeus	286984
+Ranunculus repens	137665
+Ranunculus reptans	286986
+Batrachium eradicatum	669637
+Papaver croceum	74823
+Papaver radicatum	357475
+Arabidopsis petraea	59691
+Erysimum strictum	2044562
+Barbarea stricta	264399
+Rorippa islandica	157092
+Cardamine bellidifolia	109591
+Cardamine hirsuta	50463
+Cardamine pratensis	50465
+Arabis alpina	50452
+Draba arctogena	381144
+Draba glabella	95396
+Draba incana	311941
+Draba lactea	208922
+Draba nivalis	171823
+Draba norvegica	311957
+Draba oxycarpa	381173
+Draba verna	161951
+Cochlearia officinalis	270110
+Cochlearia groenlandica	669661
+Capsella bursa-pastoris	3719
+Subularia aquatica	664071
+Cakile maritima	220483
+Drosera rotundifolia	173423
+Tillaea aquatica	
+Rhodiola rosea	203015
+Sedum acre	23028
+Sedum annuum	1239890
+Sedum villosum	669833
+Parnassia palustris	38862
+Saxifraga aizoides	102714
+Saxifraga cespitosa	102718
+Saxifraga cernua	29769
+Saxifraga cotyledon	102720
+Saxifraga foliolosa	90600
+Saxifraga granulata	83409
+Saxifraga hirculus	159962
+Saxifraga hypnoides	23264
+Saxifraga nivalis	90606
+Saxifraga oppositifolia	29771
+Saxifraga paniculata	102734
+Saxifraga rivularis	93340
+Saxifraga rosacea	134792
+Saxifraga stellaris	90614
+Saxifraga tenuis	90615
+Ribes x pallidum	
+Filipendula ulmaria	57917
+Geum rivale	148897
+Dryas octopetala	57948
+Sibbaldia procumbens	57947
+Potentilla crantzii	667241
+Potentilla erecta	57940
+Argentina anserina	57926
+Argentina egedii	
+Comarum palustre	57932
+Fragaria vesca	57918
+Rubus saxatilis	75091
+Rosa dumalis	291166
+Rosa pimpinellifolia	74630
+Alchemilla alpina	57943
+Alchemilla faeroensis	478306
+Alchemilla filicaulis	1155247
+Alchemilla glabra	1155248
+Alchemilla glomerulans	669616
+Alchemilla mollis	32218
+Alchemilla subcrenata	1844630
+Alchemilla wichurae	1572674
+Sanguisorba alpina	281910
+Sanguisorba officinalis	137457
+Sorbus aucuparia	36599
+Lupinus nootkatensis	53234
+Trifolium hybridum	74517
+Trifolium medium	97028
+Trifolium pratense	57577
+Trifolium repens	3899
+Anthyllis vulneraria	118891
+Vicia cracca	3905
+Vicia sepium	347188
+Lathyrus japonicus	154493
+Lathyrus palustris	313104
+Lathyrus pratensis	254779
+Oxalis acetosella	341461
+Geranium sylvaticum	379956
+Linum catharticum	524254
+Viola canina	502511
+Viola epipsila	669863
+Viola palustris	462882
+Viola riviniana	214052
+Viola tricolor	214053
+Epilobium alsinifolium	669676
+Epilobium anagallidifolium	669677
+Epilobium ciliatum	33132
+Epilobium collinum	1532802
+Epilobium hornemannii	669680
+Epilobium lactiflorum	669681
+Epilobium palustre	669682
+Chamerion angustifolium	13055
+Chamerion latifolium	
+Myriophyllum alterniflorum	434553
+Myriophyllum sibiricum	24953
+Cornus suecica	164435
+Hydrocotyle vulgaris	82091
+Anthriscus sylvestris	48027
+Myrrhis odorata	40880
+Carum carv	
+Aegopodium podagraria	40902
+Ligusticum scoticum	49554
+Angelica archangelica	40949
+Angelica sylvestris	54703
+Pyrola grandiflora	395309
+Pyrola minor	93826
+Orthilia secunda	93819
+Loiseleuria procumbens	45912
+Phyllodoce caerulea	49155
+Harrimanella hypnoides	49146
+Andromeda polifolia	95630
+Arctostaphylos uva-ursi	84009
+Calluna vulgaris	13385
+Vaccinium myrtillus	180763
+Vaccinium uliginosum	190548
+Vaccinium vitis-idaea	180772
+Oxycoccus microcarpus	669730
+Empetrum nigrum	191066
+Diapensia lapponica	13487
+Primula egaliksensis	175058
+Primula stricta	159016
+Trientalis europaea	59991
+Glaux maritima	110753
+Gentiana nivalis	38852
+Gentianopsis detonsa	669700
+Comastoma tenellum	149054
+Gentianella amarella	137095
+Gentianella aurea	84892
+Gentianella campestris	49940
+Lomatogonium rotatum	148625
+Menyanthes trifoliata	28525
+Galium boreale	35896
+Galium normanii	1891488
+Galium palustre	29793
+Galium trifidum	669698
+Galium uliginosum	715724
+Galium verum	462873
+Callitriche brutia	119584
+Callitriche hamulata	119588
+Callitriche hermaphroditica	38788
+Callitriche palustris	50469
+Callitriche stagnalis	119595
+Hippuris tetraphylla	669706
+Hippuris vulgaris	39321
+Myosotis arvensis	192338
+Myosotis discolor	192349
+Myosotis scorpioides	519065
+Myosotis stricta	192842
+Mertensia maritima	669721
+Ajuga pyramidalis	1532252
+Prunella vulgaris	39358
+Galeopsis tetrahit	1000418
+Lamium album	53159
+Lamium amplexicaule	53160
+Lamium purpureum	53164
+Thymus praecox	347388
+Mentha aquatica	190902
+Limosella aquatica	225023
+Mimulus guttatus	4155
+Veronica alpina	165325
+Veronica anagallis-aquatica	74693
+Veronica chamaedrys	165330
+Veronica fruticans	207273
+Veronica officinalis	160511
+Veronica persica	138560
+Veronica scutellata	195138
+Veronica serpyllifolia	164258
+Melampyrum sylvaticum	86092
+Euphrasia calida	
+Euphrasia frigida	762980
+Euphrasia stricta	374709
+Rhinanthus minor	254782
+Pedicularis flammea	669766
+Bartsia alpina	46052
+Pinguicula vulgaris	204362
+Utricularia minor	326275
+Plantago lanceolata	39414
+Plantago major	29818
+Plantago maritima	197809
+Littorella uniflora	223169
+Valeriana officinalis	19953
+Valeriana sambucifolia	669861
+Succisa pratensis	105906
+Knautia arvensis	105271
+Campanula rotundifolia	239422
+Campanula uniflora	361405
+Campanula glomerata	82281
+Erigeron borealis	91254
+Erigeron humilis	91272
+Erigeron uniflorus	72932
+Omalotheca norvegica	595332
+Omalotheca supina	261773
+Omalotheca sylvatica	1754164
+Gnaphalium uliginosum	702247
+Antennaria alpina	669621
+Achillea millefolium	13329
+Achillea ptarmica	133233
+Tripleurospermum maritimum	669858
+Lepidotheca suaveolens	883867
+Leucanthemum vulgare	99072
+Tussilago farfara	118778
+Senecio vulgaris	76276
+Cirsium arvense	41550
+Cirsium heterophyllum	675739
+Centaurea montana	41537
+Leontodon autumnalis	212686
+Taraxacum spp	
+Crepis paludosa	310247
+Pilosella aurantiaca	221188
+Pilosella islandica	
+Hieracium acidotoides	
+Hieracium alpinum	261240
+Hieracium anglicum	
+Hieracium aquiliforme	
+Hieracium arctocerinthe	
+Hieracium arrostocephalum	
+Hieracium cretatum	
+Hieracium demissum	
+Hieracium elegantiforme	
+Hieracium holopleurum	
+Hieracium leucodetum	
+Hieracium lygistodon	
+Hieracium macrocomum	
+Hieracium magnidens	
+Hieracium microdon	
+Hieracium phrixoclonum	
+Hieracium pullicalicitum	
+Hieracium stictophyllum	
+Hieracium stoedvarense	
+Hieracium stroemfeltii	
+Hieracium thaectolepium	
+Hieracium thulense	
+Triglochin maritima	55501
+Triglochin palustris	403040
+Potamogeton alpinus	246694
+Potamogeton berchtoldii	108425
+Potamogeton gramineus	55319
+Potamogeton natans	189328
+Potamogeton perfoliatus	55320
+Potamogeton praelongus	246704
+Stuckenia filiformis	397089
+Ruppia maritima	29652
+Zannichellia palustris	29654
+Zostera angustifolia	217533
+Sparganium angustifolium	669838
+Sparganium hyperboreum	669839
+Sparganium natans	669840
+Paris quadrifolia	231488
+Tofieldia pusilla	114206
+Allium oleraceum	467612
+Dactylorhiza maculata	230572
+Coeloglossum viride	230577
+Platanthera hyperborea	413038
+Pseudorchis straminea	329327
+Listera cordata	669720
+Listera ovata	29712
+Corallorhiza trifida	451881
+Juncus alpinoarticulatus	253143
+Juncus arcticus	253145
+Juncus articulatus	223654
+Juncus balticus	223655
+Juncus biglumis	253142
+Juncus bufonius	223656
+Juncus bulbosus	223657
+Juncus castaneus	223660
+Juncus filiformis	253148
+Juncus gerardii	223665
+Juncus ranarius	669712
+Juncus squarrosus	223678
+Juncus trifidus	223681
+Juncus triglumis	223682
+Luzula arcuata	223686
+Luzula confusa	630096
+Luzula multiflora	178423
+Luzula pallescens	630110
+Luzula spicata	223703
+Luzula sudetica	223705
+Eriophorum angustifolium	100292
+Eriophorum scheuchzeri	395292
+Trichophorum cespitosum	76515
+Eleocharis acicularis	280053
+Eleocharis palustris	110297
+Eleocharis quinqueflora	46325
+Eleocharis uniglumis	669671
+Kobresia myosuroides	140873
+Carex adelostoma	912374
+Carex atrata	241196
+Carex bicolor	241199
+Carex bigelowii	241200
+Carex brunnescens	240691
+Carex canescens	140796
+Carex capillaris	241203
+Carex capitata	140797
+Carex caryophyllea	502401
+Carex chordorrhiza	240692
+Carex demissa	241204
+Carex diandra	140803
+Carex dioica	111420
+Carex echinata	234467
+Carex flacca	140814
+Carex flava	140816
+Carex glacialis	312744
+Carex glareosa	513295
+Carex heleonastes	240690
+Carex krausei	669646
+Carex lachenalii	240688
+Carex limosa	140829
+Carex livida	312751
+Carex lyngbyei	657479
+Carex mackenziei	432996
+Carex macloviana	240686
+Carex maritima	240694
+Carex microglochin	234725
+Carex nardina	234460
+Carex nigra	234464
+Carex norvegica	241220
+Carex pallescens	140842
+Carex panicea	241224
+Carex paupercula	140845
+Carex pilulifera	140848
+Carex pulicaris	234471
+Carex rariflora	241228
+Carex rostrata	241230
+Carex rufina	301497
+Carex rupestris	100286
+Carex salina	912502
+Carex saxatilis	241231
+Carex serotina	241237
+Carex subspathacea	657491
+Carex vaginata	241235
+Danthonia decumbens	500232
+Milium effusum	376129
+Hierochloe odorata	2592077
+Anthoxanthum odoratum	29661
+Phleum alpinum	669775
+Phleum pratense	15957
+Alopecurus aequalis	114194
+Alopecurus geniculatus	114195
+Alopecurus pratensis	15304
+Agrostis capillaris	204232
+Agrostis stolonifera	63632
+Agrostis vinealis	247443
+Calamagrostis neglecta	395286
+Holcus lanatus	29679
+Deschampsia alpina	
+Deschampsia beringensis	2820164
+Deschampsia cespitosa	37723
+Avenella flexuosa	29672
+Avenula pubescens	87471
+Arrhenatherum elatius	52139
+Trisetum spicatum	100813
+Trisetum triflorum	
+Sesleria albicans	1589910
+Catabrosa aquatica	368338
+Briza media	281077
+Dactylis glomerata	4509
+Poa alpina	87701
+Poa annua	93036
+Poa flexuosa	87704
+Poa glauca	227214
+Poa x jemtlandica	87705
+Poa nemoralis	29659
+Poa pratensis	4545
+Poa trivialis	89684
+Puccinellia capillaris	669792
+Puccinellia coarctata	
+Phippsia algida	368332
+Festuca rubra	52153
+Festuca vivipara	745661
+Schedonorus pratensis	4608
+Glyceria fluitans	254778
+Nardus stricta	29687
+Bromopsis inermis	15371
+Elymus alopex	
+Elymus kronokensis	1521454
+Elytrigia repens	52152
+Leymus arenarius	220462

@@ -1,0 +1,703 @@
+Selaginella	3246	genus
+Lycopodium	3251	genus
+Lycopodium clavatum	3252	species
+Equisetum	3257	genus
+Equisetum arvense	3258	species
+Equisetum hyemale	3262	species
+Polystichum	3278	genus
+Dryopteris	3287	genus
+Dryopteris filix-mas	3289	species
+Larix	3325	genus
+Picea	3328	genus
+Picea sitchensis	3332	species
+Pinus	3337	genus
+Pinus contorta	3339	species
+Ranunculus	3445	genus
+Ranunculus acris	3447	species
+Caltha	3448	genus
+Caltha palustris	3449	species
+Papaver	3468	genus
+Urtica	3500	genus
+Urtica dioica	3501	species
+Betula	3504	genus
+Alnus	3515	genus
+Atriplex	3550	genus
+Silene	3573	genus
+Arenaria	3577	genus
+Cerastium	3579	genus
+Cerastium glomeratum	3580	species
+Rumex	3618	genus
+Populus	3689	genus
+Populus trichocarpa	3694	species
+Arabidopsis	3701	genus
+Capsella	3718	genus
+Capsella bursa-pastoris	3719	species
+Fragaria	3746	genus
+Geum	3761	genus
+Rosa	3764	genus
+Sedum	3784	genus
+Parnassia	3796	genus
+Saxifraga	3798	genus
+Ribes	3801	genus
+Lathyrus	3853	genus
+Lupinus	3869	genus
+Trifolium	3898	genus
+Trifolium repens	3899	species
+Vicia	3904	genus
+Vicia cracca	3905	species
+Linum	4005	genus
+Geranium	4028	genus
+Oxalis	4034	genus
+Hydrocotyle	4048	genus
+Mimulus	4154	genus
+Mimulus guttatus	4155	species
+Veronica	4173	genus
+Pinguicula	4197	genus
+Cornus	4281	genus
+Drosera	4363	genus
+Dactylis	4508	genus
+Dactylis glomerata	4509	species
+Poa	4544	genus
+Poa pratensis	4545	species
+Festuca	4605	genus
+Schedonorus pratensis	4608	species
+Allium	4678	genus
+Sparganium	4729	genus
+Vulpes	9625	genus
+Ursus	9639	genus
+Mustela	9665	genus
+Odobenus	9706	genus
+Halichoerus	9710	genus
+Phoca	9717	genus
+Equus	9789	genus
+Rangifer	9869	genus
+Bos	9903	genus
+Capra	9922	genus
+Ovis	9935	genus
+Mus	10088	genus
+Rattus	10114	genus
+Apodemus	10128	genus
+Epilobium	13054	genus
+Chamerion angustifolium	13055	species
+Juniperus	13100	genus
+Potamogeton	13228	genus
+Stellaria	13273	genus
+Stellaria media	13274	species
+Achillea	13328	genus
+Achillea millefolium	13329	species
+Callitriche	13380	genus
+Calluna	13384	genus
+Calluna vulgaris	13385	species
+Carex	13398	genus
+Crepis	13464	genus
+Diapensia	13486	genus
+Diapensia lapponica	13487	species
+Juncus	13578	genus
+Puccinellia	13648	genus
+Pyrola	13650	genus
+Utricularia	13747	genus
+Vaccinium	13749	genus
+Viola	13757	genus
+Botrychium	13829	genus
+Ophioglossum	13833	genus
+Isoetes	13838	genus
+Lycopodium annotinum	13840	species
+Listera	14605	genus
+Agrostis	15297	genus
+Alopecurus	15303	genus
+Alopecurus pratensis	15304	species
+Anthoxanthum	15324	genus
+Briza	15369	genus
+Bromopsis inermis	15371	species
+Calamagrostis	15376	genus
+Deschampsia	15452	genus
+Elymus	15492	genus
+Holcus	15560	genus
+Nardus	15679	genus
+Phleum	15956	genus
+Phleum pratense	15957	species
+Ruppia	16365	genus
+Senecio	18794	genus
+Valeriana	19952	genus
+Valeriana officinalis	19953	species
+Gentiana	21496	genus
+Mentha	21819	genus
+Sedum acre	23028	species
+Alchemilla	23138	genus
+Filipendula	23170	genus
+Potentilla	23204	genus
+Argentina	23204	genus
+Rubus	23216	genus
+Sorbus	23222	genus
+Saxifraga hypnoides	23264	species
+Menyanthes	24581	genus
+Myriophyllum	24952	genus
+Myriophyllum sibiricum	24953	species
+Galium	25168	genus
+Plantago	26867	genus
+Zannichellia	27253	genus
+Zostera	27257	genus
+Menyanthes trifoliata	28525	species
+Woodsia	29610	genus
+Ruppia maritima	29652	species
+Zannichellia palustris	29654	species
+Poa nemoralis	29659	species
+Anthoxanthum odoratum	29661	species
+Avenella flexuosa	29672	species
+Holcus lanatus	29679	species
+Nardus stricta	29687	species
+Listera ovata	29712	species
+Saxifraga cernua	29769	species
+Saxifraga oppositifolia	29771	species
+Galium palustre	29793	species
+Plantago major	29818	species
+Asplenium	32071	genus
+Athyrium	32109	genus
+Athyrium filix-femina	32110	species
+Cystopteris	32111	genus
+Cystopteris fragilis	32112	species
+Gymnocarpium	32115	genus
+Gymnocarpium dryopteris	32116	species
+Alchemilla mollis	32218	species
+Epilobium ciliatum	33132	species
+Dryas	33452	genus
+Galium boreale	35896	species
+Sorbus aucuparia	36599	species
+Botrychium lunaria	37231	species
+Huperzia	37428	genus
+Deschampsia cespitosa	37723	species
+Glyceria	37871	genus
+Polypodium	38352	genus
+Hymenophyllum	38386	genus
+Isoetes echinospora	38494	species
+Ajuga	38595	genus
+Betula pubescens	38787	species
+Callitriche hermaphroditica	38788	species
+Gentiana nivalis	38852	species
+Parnassia palustris	38862	species
+Prunella	39176	genus
+Cystophora	39181	genus
+Erignathus	39182	genus
+Hippuris	39200	genus
+Hippuris vulgaris	39321	species
+Prunella vulgaris	39358	species
+Plantago lanceolata	39414	species
+Silene acaulis	39862	species
+Silene dioica	39879	species
+Silene uniflora	39919	species
+Viscaria alpina	39927	species
+Campanula	40568	genus
+Salix	40685	genus
+Myrrhis	40879	genus
+Myrrhis odorata	40880	species
+Anthriscus	40886	genus
+Aegopodium	40898	genus
+Aegopodium podagraria	40902	species
+Angelica	40948	genus
+Angelica archangelica	40949	species
+Rumex acetosa	41241	species
+Antennaria	41475	genus
+Centaurea	41503	genus
+Centaurea montana	41537	species
+Cirsium	41549	genus
+Cirsium arvense	41550	species
+Erigeron	41574	genus
+Botrychium lanceolatum	41922	species
+Botrychium minganense	41924	species
+Botrychium simplex	41931	species
+Lychnis flos-cuculi	42036	species
+Danthonia	42047	genus
+Pedicularis	43174	genus
+Polypodium	43185	genus
+Phyllodoce	45908	genus
+Loiseleuria procumbens	45912	species
+Empetrum	45918	genus
+Bartsia	46051	genus
+Bartsia alpina	46052	species
+Euphrasia	46053	genus
+Rhinanthus	46059	genus
+Luzula	46322	genus
+Eleocharis	46324	genus
+Eleocharis quinqueflora	46325	species
+Eriophorum	46326	genus
+Kobresia	46330	genus
+Polygonum	46786	genus
+Thalictrum	46968	genus
+Anthriscus sylvestris	48027	species
+Carum	48031	genus
+Dryas	48230	genus
+Corallorhiza	48525	genus
+Harrimanella	49145	genus
+Harrimanella hypnoides	49146	species
+Phyllodoce caerulea	49155	species
+Ligusticum	49551	genus
+Ligusticum scoticum	49554	species
+Primula	49647	genus
+Paris	49669	genus
+Taraxacum	49743	genus
+Gentianella campestris	49940	species
+Gentianella	49959	genus
+Thymus	49990	genus
+Isoetes lacustris	50271	species
+Lomatogonium	50276	genus
+Arabis	50451	genus
+Arabis alpina	50452	species
+Barbarea	50457	genus
+Cardamine	50460	genus
+Cardamine hirsuta	50463	species
+Cardamine pratensis	50465	species
+Callitriche palustris	50469	species
+Rorippa	50495	genus
+Comastoma	50752	genus
+Gentianopsis	50798	genus
+Arrhenatherum	52138	genus
+Arrhenatherum elatius	52139	species
+Bromopsis	52144	genus
+Elytrigia repens	52152	species
+Festuca rubra	52153	species
+Sesleria	52160	genus
+Leymus	52713	genus
+Melampyrum	52724	genus
+Lamium	53158	genus
+Lamium album	53159	species
+Lamium amplexicaule	53160	species
+Lamium purpureum	53164	species
+Lupinus nootkatensis	53234	species
+Angelica sylvestris	54703	species
+Arenaria	54972	genus
+Potamogeton gramineus	55319	species
+Potamogeton perfoliatus	55320	species
+Triglochin	55500	genus
+Triglochin maritima	55501	species
+Trifolium pratense	57577	species
+Filipendula ulmaria	57917	species
+Fragaria vesca	57918	species
+Argentina anserina	57926	species
+Comarum palustre	57932	species
+Sanguisorba	57937	genus
+Potentilla erecta	57940	species
+Alchemilla alpina	57943	species
+Sibbaldia	57946	genus
+Sibbaldia procumbens	57947	species
+Dryas octopetala	57948	species
+Juniperus communis	58039	species
+Polypodium vulgare	58048	species
+Leontodon	58659	genus
+Knautia	59182	genus
+Dactylorhiza	59319	genus
+Platanthera	59352	genus
+Gnaphalium	59428	genus
+Arabidopsis petraea	59691	species
+Trientalis	59990	genus
+Trientalis europaea	59991	species
+Rumex acetosella	61450	species
+Persicaria	61508	genus
+Larix sibirica	62751	species
+Armeria	63086	genus
+Agrostis stolonifera	63632	species
+Erysimum	65352	genus
+Selaginella selaginoides	69996	species
+Armeria maritima	71835	species
+Erigeron uniflorus	72932	species
+Diphasiastrum alpinum	73625	species
+Trifolium hybridum	74517	species
+Rosa pimpinellifolia	74630	species
+Veronica anagallis-aquatica	74693	species
+Papaver croceum	74823	species
+Rubus saxatilis	75091	species
+Senecio vulgaris	76276	species
+Trichophorum	76514	genus
+Trichophorum cespitosum	76515	species
+Salix herbacea	77064	species
+Asplenium trichomanes	78464	species
+Hydrocotyle vulgaris	82091	species
+Campanula glomerata	82281	species
+Saxifraga granulata	83409	species
+Arctostaphylos	83607	genus
+Arctostaphylos uva-ursi	84009	species
+Gentianella aurea	84892	species
+Tofieldia	85289	genus
+Melampyrum sylvaticum	86092	species
+Draba	87301	genus
+Avenula pubescens	87471	species
+Trisetum	87476	genus
+Poa alpina	87701	species
+Poa flexuosa	87704	species
+Poa x jemtlandica	87705	species
+Poa trivialis	89684	species
+Saxifraga foliolosa	90600	species
+Saxifraga nivalis	90606	species
+Saxifraga stellaris	90614	species
+Saxifraga tenuis	90615	species
+Erigeron borealis	91254	species
+Erigeron humilis	91272	species
+Poa annua	93036	species
+Saxifraga rivularis	93340	species
+Phegopteris	93618	genus
+Orthilia	93818	genus
+Orthilia secunda	93819	species
+Pyrola minor	93826	species
+Draba glabella	95396	species
+Andromeda	95629	genus
+Andromeda polifolia	95630	species
+Trifolium medium	97028	species
+Cystophora	97204	genus
+Cochlearia	97854	genus
+Leucanthemum	99071	genus
+Leucanthemum vulgare	99072	species
+Tripleurospermum	99107	genus
+Carex rupestris	100286	species
+Eriophorum angustifolium	100292	species
+Trisetum spicatum	100813	species
+Saxifraga aizoides	102714	species
+Saxifraga cespitosa	102718	species
+Saxifraga cotyledon	102720	species
+Saxifraga paniculata	102734	species
+Hieracium	102745	genus
+Knautia arvensis	105271	species
+Succisa	105905	genus
+Succisa pratensis	105906	species
+Montia	107590	genus
+Potamogeton berchtoldii	108425	species
+Alnus sinuata	109071	species
+Cardamine bellidifolia	109591	species
+Eleocharis palustris	110297	species
+Glaux	110752	genus
+Glaux maritima	110753	species
+Carex dioica	111420	species
+Equisetum palustre	113538	species
+Populus tremula	113636	species
+Alopecurus aequalis	114194	species
+Alopecurus geniculatus	114195	species
+Tofieldia pusilla	114206	species
+Tussilago	118777	genus
+Tussilago farfara	118778	species
+Anthyllis	118889	genus
+Anthyllis vulneraria	118891	species
+Callitriche brutia	119584	species
+Callitriche hamulata	119588	species
+Callitriche stagnalis	119595	species
+Pilosella	122543	genus
+Achillea ptarmica	133233	species
+Saxifraga rosacea	134792	species
+Gentianella amarella	137095	species
+Sanguisorba officinalis	137457	species
+Ranunculus repens	137665	species
+Bistorta	137670	genus
+Koenigia	137679	genus
+Oxyria	137682	genus
+Polygonum aviculare	137693	species
+Veronica persica	138560	species
+Mertensia	140495	genus
+Carex canescens	140796	species
+Carex capitata	140797	species
+Carex diandra	140803	species
+Carex flacca	140814	species
+Carex flava	140816	species
+Carex limosa	140829	species
+Carex pallescens	140842	species
+Carex paupercula	140845	species
+Carex pilulifera	140848	species
+Kobresia myosuroides	140873	species
+Asplenium viride	147940	species
+Lomatogonium rotatum	148625	species
+Geum rivale	148897	species
+Comastoma tenellum	149054	species
+Lathyrus japonicus	154493	species
+Rorippa islandica	157092	species
+Athyrium distentifolium	157494	species
+Spergularia	157640	genus
+Primula stricta	159016	species
+Saxifraga hirculus	159962	species
+Veronica officinalis	160511	species
+Draba verna	161951	species
+Veronica serpyllifolia	164258	species
+Cornus suecica	164435	species
+Veronica alpina	165325	species
+Veronica chamaedrys	165330	species
+Asplenium septentrionale	169380	species
+Draba nivalis	171823	species
+Salix caprea	172267	species
+Drosera rotundifolia	173423	species
+Phegopteris connectilis	173899	species
+Phegopteris connectilis	173899	species
+Primula egaliksensis	175058	species
+Prunella	175132	genus
+Luzula multiflora	178423	species
+Vaccinium myrtillus	180763	species
+Vaccinium vitis-idaea	180772	species
+Capsella	183499	genus
+Potamogeton natans	189328	species
+Vaccinium uliginosum	190548	species
+Mentha aquatica	190902	species
+Empetrum nigrum	191066	species
+Spergularia salina	191669	species
+Myosotis	192333	genus
+Myosotis arvensis	192338	species
+Myosotis discolor	192349	species
+Myosotis stricta	192842	species
+Veronica scutellata	195138	species
+Plantago maritima	197809	species
+Rhodiola	202994	genus
+Rhodiola rosea	203015	species
+Agrostis capillaris	204232	species
+Pinguicula vulgaris	204362	species
+Veronica fruticans	207273	species
+Polystichum lonchitis	207865	species
+Draba lactea	208922	species
+Woodsia	210574	genus
+Mertensia	211512	genus
+Leontodon autumnalis	212686	species
+Viola riviniana	214052	species
+Viola tricolor	214053	species
+Betula nana	216990	species
+Zostera angustifolia	217533	species
+Schedonorus	218135	genus
+Salix lanata	218388	species
+Leymus arenarius	220462	species
+Cakile	220482	genus
+Cakile maritima	220483	species
+Pilosella aurantiaca	221188	species
+Phyllodoce	222014	genus
+Littorella	223166	genus
+Littorella uniflora	223169	species
+Juncus articulatus	223654	species
+Juncus balticus	223655	species
+Juncus bufonius	223656	species
+Juncus bulbosus	223657	species
+Juncus castaneus	223660	species
+Juncus gerardii	223665	species
+Juncus squarrosus	223678	species
+Juncus trifidus	223681	species
+Juncus triglumis	223682	species
+Luzula arcuata	223686	species
+Luzula spicata	223703	species
+Luzula sudetica	223705	species
+Limosella	225017	genus
+Limosella aquatica	225023	species
+Poa glauca	227214	species
+Dactylorhiza maculata	230572	species
+Coeloglossum viride	230577	species
+Cerastium fontanum	230722	species
+Sagina	230723	genus
+Sagina procumbens	230724	species
+Paris quadrifolia	231488	species
+Equisetum variegatum	231678	species
+Equisetum sylvaticum	231679	species
+Equisetum fluviatile	231680	species
+Equisetum pratense	231681	species
+Carex nardina	234460	species
+Carex nigra	234464	species
+Carex echinata	234467	species
+Carex pulicaris	234471	species
+Carex microglochin	234725	species
+Beckwithia glacialis	235900	species
+Chamerion	238243	genus
+Cryptogramma	238821	genus
+Campanula rotundifolia	239422	species
+Dryopteris expansa	239563	species
+Spergula	240010	genus
+Carex macloviana	240686	species
+Carex lachenalii	240688	species
+Carex heleonastes	240690	species
+Carex brunnescens	240691	species
+Carex chordorrhiza	240692	species
+Carex maritima	240694	species
+Carex atrata	241196	species
+Carex bicolor	241199	species
+Carex bigelowii	241200	species
+Carex capillaris	241203	species
+Carex demissa	241204	species
+Carex norvegica	241220	species
+Carex panicea	241224	species
+Carex rariflora	241228	species
+Carex rostrata	241230	species
+Carex saxatilis	241231	species
+Carex vaginata	241235	species
+Carex serotina	241237	species
+Potamogeton alpinus	246694	species
+Potamogeton praelongus	246704	species
+Stuckenia	246706	genus
+Agrostis vinealis	247443	species
+Juncus biglumis	253142	species
+Juncus alpinoarticulatus	253143	species
+Juncus arcticus	253145	species
+Juncus filiformis	253148	species
+Stellaria alsine	254021	species
+Glyceria fluitans	254778	species
+Lathyrus pratensis	254779	species
+Persicaria amphibia	254780	species
+Rhinanthus minor	254782	species
+Minuartia	258339	genus
+Argentina	260511	genus
+Hieracium alpinum	261240	species
+Omalotheca supina	261773	species
+Barbarea stricta	264399	species
+Lychnis	265240	genus
+Cochlearia officinalis	270110	species
+Stellaria graminea	271541	species
+Cerastium alpinum	271556	species
+Cerastium nigrescens	271557	species
+Cerastium cerastoides	271580	species
+Eleocharis acicularis	280053	species
+Briza media	281077	species
+Sanguisorba alpina	281910	species
+Oxyria digyna	284366	species
+Hierochloe	286618	genus
+Ranunculus hyperboreus	286916	species
+Ranunculus pygmaeus	286984	species
+Ranunculus reptans	286986	species
+Rosa dumalis	291166	species
+Antennaria	293542	genus
+Carex rufina	301497	species
+Cryptogramma crispa	306132	species
+Crepis paludosa	310247	species
+Draba incana	311941	species
+Draba norvegica	311957	species
+Carex glacialis	312744	species
+Carex livida	312751	species
+Lathyrus palustris	313104	species
+Montia fontana	313220	species
+Spergula arvensis	325515	species
+Utricularia minor	326275	species
+Pseudorchis	329326	genus
+Pseudorchis straminea	329327	species
+Salix myrsinifolia	339964	species
+Oxalis acetosella	341461	species
+Minuartia biflora	345293	species
+Vicia sepium	347188	species
+Thymus praecox	347388	species
+Papaver radicatum	357475	species
+Coeloglossum	361224	genus
+Campanula uniflora	361405	species
+Phippsia	368331	genus
+Phippsia algida	368332	species
+Catabrosa	368337	genus
+Catabrosa aquatica	368338	species
+Milium	368340	genus
+Bistorta vivipara	371026	species
+Euphrasia stricta	374709	species
+Koenigia islandica	374741	species
+Milium effusum	376129	species
+Geranium sylvaticum	379956	species
+Draba arctogena	381144	species
+Draba oxycarpa	381173	species
+Avenula	388696	genus
+Avenella	391960	genus
+Comarum	395100	genus
+Beckwithia	395282	genus
+Calamagrostis neglecta	395286	species
+Eriophorum scheuchzeri	395292	species
+Pyrola grandiflora	395309	species
+Sagina nivalis	395312	species
+Salix arctica	395313	species
+Stellaria crassifolia	395325	species
+Thalictrum alpinum	395328	species
+Stuckenia filiformis	397089	species
+Botrychium boreale	401572	species
+Triglochin palustris	403040	species
+Platanthera hyperborea	413038	species
+Salix alaxensis	426348	species
+Carex mackenziei	432996	species
+Myriophyllum alterniflorum	434553	species
+Corallorhiza trifida	451881	species
+Diphasiastrum	455304	genus
+Galeopsis	457137	genus
+Persicaria maculosa	457184	species
+Galium verum	462873	species
+Viola palustris	462882	species
+Allium oleraceum	467612	species
+Salix phylicifolia	470269	species
+Urtica urens	473050	species
+Alchemilla faeroensis	478306	species
+Danthonia decumbens	500232	species
+Carex caryophyllea	502401	species
+Viola canina	502511	species
+Viola	509528	genus
+Carex glareosa	513295	species
+Myosotis scorpioides	519065	species
+Lepidotheca	520359	genus
+Linum catharticum	524254	species
+Mimulus	553005	genus
+Ranunculus auricomus	568533	species
+Omalotheca norvegica	595332	species
+Luzula confusa	630096	species
+Luzula pallescens	630110	species
+Batrachium	633652	genus
+Minuartia rubella	645205	species
+Carex lyngbyei	657479	species
+Carex subspathacea	657491	species
+Subularia	664070	genus
+Subularia aquatica	664071	species
+Potentilla crantzii	667241	species
+Alchemilla glomerulans	669616	species
+Antennaria alpina	669621	species
+Batrachium eradicatum	669637	species
+Carex krausei	669646	species
+Cochlearia groenlandica	669661	species
+Eleocharis uniglumis	669671	species
+Epilobium alsinifolium	669676	species
+Epilobium anagallidifolium	669677	species
+Epilobium hornemannii	669680	species
+Epilobium lactiflorum	669681	species
+Epilobium palustre	669682	species
+Galium trifidum	669698	species
+Gentianopsis detonsa	669700	species
+Hippuris tetraphylla	669706	species
+Juncus ranarius	669712	species
+Listera cordata	669720	species
+Mertensia maritima	669721	species
+Minuartia stricta	669726	species
+Oxycoccus microcarpus	669730	species
+Pedicularis flammea	669766	species
+Phleum alpinum	669775	species
+Puccinellia capillaris	669792	species
+Sagina caespitosa	669802	species
+Sagina saginoides	669803	species
+Sedum villosum	669833	species
+Sparganium angustifolium	669838	species
+Sparganium hyperboreum	669839	species
+Sparganium natans	669840	species
+Stellaria borealis	669842	species
+Tripleurospermum maritimum	669858	species
+Valeriana sambucifolia	669861	species
+Viola epipsila	669863	species
+Cirsium heterophyllum	675739	species
+Viscaria	692066	genus
+Pusa	693430	genus
+Gnaphalium uliginosum	702247	species
+Galium uliginosum	715724	species
+Hymenophyllum wilsonii	723550	species
+Festuca vivipara	745661	species
+Euphrasia frigida	762980	species
+Mus	862507	genus
+Woodsia ilvensis	872911	species
+Atriplex glabriuscula	880653	species
+Lepidotheca suaveolens	883867	species
+Carex adelostoma	912374	species
+Carex salina	912502	species
+Arenaria norvegica	940194	species
+Galeopsis tetrahit	1000418	species
+Rumex longifolius	1075208	species
+Stellaria humifusa	1137906	species
+Alchemilla filicaulis	1155247	species
+Alchemilla glabra	1155248	species
+Atriplex longipes	1155253	species
+Sagina nodosa	1155358	species
+Sedum annuum	1239890	species
+Stellaria	1297112	genus
+Woodsia alpina	1303118	species
+Elymus kronokensis	1521454	species
+Ajuga pyramidalis	1532252	species
+Epilobium collinum	1532802	species
+Alchemilla wichurae	1572674	species
+Ophioglossum azoricum	1581413	species
+Sesleria albicans	1589910	species
+Omalotheca	1754163	genus
+Omalotheca sylvatica	1754164	species
+Alchemilla subcrenata	1844630	species
+Galium normanii	1891488	species
+Erysimum strictum	2044562	species
+Galeopsis	2138267	genus
+Hierochloe odorata	2592077	species
+Deschampsia beringensis	2820164	species
